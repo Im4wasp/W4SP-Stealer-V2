@@ -31,7 +31,7 @@ W4SP Stealer v2 | W4SP API v2 | W4SP Bot v2
 ## Features [Stealer]
 (Stealer v2 by [@loTus04](https://github.com/loTus04) and [xKian](https://github.com/sfx2me))
 
-Added:
+Added: <br> <br>
   [+] Exodus Password Injection <br>
   [+] Atomic Password Injection <br>
   [+] 10 Browser Paths <br>
@@ -41,45 +41,33 @@ Added:
   [+] AutoFill, History, CC stealer <br>
   [+] Data Extractor (Instagram Info, Tiktok Info, Protonmail Token) <br>
   [+] NationsGlory account info <br>
-
-  [~] Fixed Telegram Stealer <br>
-  [~] Works on w11 and with microsoft store python shit <br>
-  [~] Better Zip algo <br>
-  [~] Better Kiwi algo <br>
-
+ <br>
+  [=] Fixed Telegram Stealer <br>
+  [=] Works on w11 and with microsoft store python shit <br>
+  [=] Better Zip algo <br>
+  [=] Better Kiwi algo <br>
+ <br>
   [-] Removed 'requests' lib <br>
 
 
 ## Features [Injector]
-(Injector by [@loTus04](https://github.com/loTus04))
-- Brilliant persistance technique (only in injector v1.1)
-- Invisible in TaskManger StartUP tab (only in injector v1.1)
-- FUD
-- Fully runs in background
-- Hides the stealer very well
-
-Credit to [xKian](https://github.com/sfx2me) who improved the injector (v1.2)
+improved by [xKian](https://github.com/sfx2me)
 
 ## Features [API]
-(Api by [@billythegoat356](https://github.com/billythegoat356))
-- Easy to update/upgrade
-- Compatible with all w4sp versions
-- Using auto & custom obfuscation
-- Manage Users and Webhooks with API
-- Browser security => If a browser is detected (headers) it will obfusacate a fake wasp script <- Brilliant Idea by [lath](https://github.com/lathlaszlo)
+improved by [uuid](https://github.com/uuid) and [@loTus04](https://github.com/loTus04)
+
+Added: <br> <br>
+  [+] Config File (for setup) <br>
+  [+] IP Blacklist System: <br>
+    > browser UA -> ban <br>
+    > Wrong Path -> ban <br>
+    > Wrong Password -> ban <br>
+  [+] System Logs <br>
+  [+] Proxy for Webhook protection and antispam <br>
 
 ## Features [BOT]
-(Bot by [@billythegoat356](https://github.com/billythegoat356))
-- Easy to configure
-- Manage Users and Webhooks using w4sp api
-- Auto inject file.py
-
-# Few articles on W4SP (they where writen during beta-testing)<br> ⚠️Most articles writen after that are 95% bullshit⚠️
-- [securelist.com ~ Two more malicious Python packages in the PyPI
-](https://securelist.com/two-more-malicious-python-packages-in-the-pypi/107218/)
-- [securityweek.com ~ Security Firms Find Over 20 Malicious PyPI Packages Designed for Data Theft](https://www.securityweek.com/security-firms-find-over-20-malicious-pypi-packages-designed-data-theft)
-- [digismak.com ~ Criminals steal data by spoofing popular open source package](https://digismak.com/criminals-steal-data-by-spoofing-popular-open-source-package/)
-- [darkreading.com ~ Whack-a-Mole: More Malicious PyPI Packages Spring Up Targeting Discord, Roblox](https://www.darkreading.com/application-security/whack-a-mole-malicious-pypi-packages-target-discord-roblox)
+improved by [uuid](https://github.com/uuid)
+  [+] Embeds <3
 
 # ScreenShots
 <img src="https://cdn.discordapp.com/attachments/1035587885442813995/1035590779919421460/unknown.png"></img>
