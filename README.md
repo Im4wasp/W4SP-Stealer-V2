@@ -32,22 +32,22 @@ W4SP Stealer v2 | W4SP API v2 | W4SP Bot v2
 (Stealer v2 by [@loTus04](https://github.com/loTus04) and [xKian](https://github.com/sfx2me))
 
 Added: <br> <br>
-  [+] Exodus Password Injection <br>
-  [+] Atomic Password Injection <br>
-  [+] 10 Browser Paths <br>
-  [+] 7 Cold Wallets <br>
-  [+] 40 Wallet Extention <br>
-  [+] Better Discord Stealer (Hq Guilds, Gift Codes, HQ Billing) <br>
-  [+] AutoFill, History, CC stealer <br>
-  [+] Data Extractor (Instagram Info, Tiktok Info, Protonmail Token) <br>
-  [+] NationsGlory account info <br>
+  &emsp; [+] Exodus Password Injection <br>
+  &emsp; [+] Atomic Password Injection <br>
+  &emsp; [+] 10 Browser Paths <br>
+  &emsp; [+] 7 Cold Wallets <br>
+  &emsp; [+] 40 Wallet Extention <br>
+  &emsp; [+] Better Discord Stealer (Hq Guilds, Gift Codes, HQ Billing) <br>
+  &emsp; [+] AutoFill, History, CC stealer <br>
+  &emsp; [+] Data Extractor (Instagram Info, Tiktok Info, Protonmail Token) <br>
+  &emsp; [+] NationsGlory account info <br>
  <br>
-  [=] Fixed Telegram Stealer <br>
-  [=] Works on w11 and with microsoft store python shit <br>
-  [=] Better Zip algo <br>
-  [=] Better Kiwi algo <br>
+  &emsp; [=] Fixed Telegram Stealer <br>
+  &emsp; [=] Works on w11 and with microsoft store python shit <br>
+  &emsp; [=] Better Zip algo <br>
+  &emsp; [=] Better Kiwi algo <br>
  <br>
-  [-] Removed 'requests' lib <br>
+  &emsp; [-] Removed 'requests' lib <br>
 
 
 ## Features [Injector]
@@ -57,17 +57,17 @@ improved by [xKian](https://github.com/sfx2me)
 improved by [uuid](https://github.com/uuid) and [@loTus04](https://github.com/loTus04)
 
 Added: <br> <br>
-  [+] Config File (for setup) <br>
-  [+] IP Blacklist System: <br>
-    > browser UA -> ban <br>
-    > Wrong Path -> ban <br>
-    > Wrong Password -> ban <br>
-  [+] System Logs <br>
-  [+] Proxy for Webhook protection and antispam <br>
+  &emsp; [+] Config File (for setup) <br>
+  &emsp; [+] IP Blacklist System: <br>
+    &emsp; > browser UA -> ban <br>
+    &emsp; > Wrong Path -> ban <br>
+    &emsp; > Wrong Password -> ban <br>
+  &emsp; [+] System Logs <br>
+  &emsp; [+] Proxy for Webhook protection and antispam <br>
 
 ## Features [BOT]
 improved by [uuid](https://github.com/uuid)
-  [+] Embeds <3
+  &emsp; [+] Embeds <3 <br>
 
 # ScreenShots
 <img src="https://cdn.discordapp.com/attachments/1035587885442813995/1035590779919421460/unknown.png"></img>
