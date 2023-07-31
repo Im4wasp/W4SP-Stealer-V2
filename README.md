@@ -3,7 +3,7 @@ w4sp Stealer v2 official source code, one of the best python stealer on the web<
 W4SP Stealer v2 | W4SP API v2 | W4SP Bot v2
 
 <a href="https://twitter.com/TheHackersNews/status/1588812607234117632"><img src="https://media.discordapp.net/attachments/526622602542710814/1039914372136448031/unknown.png"></img></a>
-<br>Stealer by [@loTus04](https://github.com/loTus04) and API & Bot by [@billythegoat356](https://github.com/billythegoat356)<br>
+
 (for education purpose only)<br>
 
 
@@ -53,21 +53,24 @@ Added: <br> <br>
 ## Features [Injector]
 improved by [xKian](https://github.com/sfx2me)
 
+[+] Fixed Things
+
 ## Features [API]
 improved by [uuid](https://github.com/uuid) and [@loTus04](https://github.com/loTus04)
 
 Added: <br> <br>
   &emsp; [+] Config File (for setup) <br>
   &emsp; [+] IP Blacklist System: <br>
-    &emsp; > browser UA -> ban <br>
-    &emsp; > Wrong Path -> ban <br>
-    &emsp; > Wrong Password -> ban <br>
+    &emsp;&emsp;  > browser UA -> ban <br>
+    &emsp;&emsp;  > Wrong Path -> ban <br>
+    &emsp;&emsp;  > Wrong Password -> ban <br>
   &emsp; [+] System Logs <br>
   &emsp; [+] Proxy for Webhook protection and antispam <br>
 
 ## Features [BOT]
 improved by [uuid](https://github.com/uuid)
-  &emsp; [+] Embeds <3 <br>
+
+[+] Embeds <3 <br>
 
 # ScreenShots
 <img src="https://cdn.discordapp.com/attachments/1035587885442813995/1035590779919421460/unknown.png"></img>
