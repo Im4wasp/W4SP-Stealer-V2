@@ -32,19 +32,22 @@ W4SP Stealer v2 | W4SP API v2 | W4SP Bot v2
 (Stealer v2 by [@loTus04](https://github.com/loTus04) and [xKian](https://github.com/sfx2me))
 
 Added:
-  [+] Exodus Password Injection<br>
-  [+] Atomic Password Injection<br>
-  [+] 10 Browser Paths<br>
-  [+] 7 Cold Wallets<br>
-  [+] 40 Wallet Extention<br>
-  [+] Better Discord Stealer (Hq Guilds, Gift Codes)
-  [+] AutoFill, History, CC stealer
-  [+]
+  [+] Exodus Password Injection <br>
+  [+] Atomic Password Injection <br>
+  [+] 10 Browser Paths <br>
+  [+] 7 Cold Wallets <br>
+  [+] 40 Wallet Extention <br>
+  [+] Better Discord Stealer (Hq Guilds, Gift Codes, HQ Billing) <br>
+  [+] AutoFill, History, CC stealer <br>
+  [+] Data Extractor (Instagram Info, Tiktok Info, Protonmail Token) <br>
+  [+] NationsGlory account info <br>
 
-  [~] Fixed Telegram Stealer<br>
-  
+  [~] Fixed Telegram Stealer <br>
+  [~] Works on w11 and with microsoft store python shit <br>
+  [~] Better Zip algo <br>
+  [~] Better Kiwi algo <br>
 
-  [-] Removed 'requests' lib
+  [-] Removed 'requests' lib <br>
 
 
 ## Features [Injector]
