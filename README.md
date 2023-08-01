@@ -2,7 +2,7 @@
 w4sp Stealer v2 official source code, one of the best python stealer on the web<br>
 W4SP Stealer v2 | W4SP API v2 | W4SP Bot v2
 
-<a href="https://twitter.com/TheHackersNews/status/1588812607234117632"><img src="https://media.discordapp.net/attachments/526622602542710814/1039914372136448031/unknown.png"></img></a>
+<a href="https://blog.virustotal.com/2023/06/inside-of-wasps-nest-deep-dive-into.html"><img src="https://cdn.discordapp.com/attachments/1135684724585681039/1135848200687853598/image.png"></img></a>
 
 (for education purpose only)<br>
 
@@ -24,7 +24,7 @@ W4SP Stealer v2 | W4SP API v2 | W4SP Bot v2
 [-] Same as wasp v1
 
 ## Setup [API]
-[![](https://markdown-videos.deta.dev/youtube/th3cA691zJ4)](https://youtu.be/th3cA691zJ4)
+<a href="https://youtu.be/th3cA691zJ4"><img src="https://cdn.discordapp.com/attachments/1135684724585681039/1135851839045238814/mqdefault.jpg"></img></a>
 
 
 
