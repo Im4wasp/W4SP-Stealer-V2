@@ -1,5 +1,6 @@
 # 🐝 W4SP Stealer V2 🐝
-w4sp Stealer v2 official source code, one of the best python stealer on the web<br>
+
+
 W4SP Stealer v2 | W4SP API v2 | W4SP Bot v2
 
 <a href="https://blog.virustotal.com/2023/06/inside-of-wasps-nest-deep-dive-into.html"><img src="https://cdn.discordapp.com/attachments/1135684724585681039/1135848200687853598/image.png"></img></a>
