@@ -30,7 +30,7 @@ W4SP Stealer v2 | W4SP API v2 | W4SP Bot v2
 
 
 ## Features [Stealer]
-(Stealer v2 by [@loTus04](https://github.com/loTus04) and [xKian](https://github.com/sfx2me))
+(Stealer v2 by [@loTus04](https://github.com/loTus04) and [xKian](https://github.com/xKiian))
 
 Added: <br> <br>
   &emsp; [+] Exodus Password Injection <br>
@@ -52,7 +52,7 @@ Added: <br> <br>
 
 
 ## Features [Injector]
-improved by [xKian](https://github.com/sfx2me)
+improved by [xKian](https://github.com/xKiian)
 
 [+] Fixed Things
 
