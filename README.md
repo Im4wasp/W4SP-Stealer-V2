@@ -57,7 +57,7 @@ improved by [xKian](https://github.com/sfx2me)
 [+] Fixed Things
 
 ## Features [API]
-improved by [uuid](https://github.com/uuid) and [@loTus04](https://github.com/loTus04)
+improved by [uuid](https://github.com/imuuid) and [@loTus04](https://github.com/loTus04)
 
 Added: <br> <br>
   &emsp; [+] Config File (for setup) <br>
@@ -69,7 +69,7 @@ Added: <br> <br>
   &emsp; [+] Proxy for Webhook protection and antispam <br>
 
 ## Features [BOT]
-improved by [uuid](https://github.com/uuid)
+improved by [uuid](https://github.com/imuuid)
 
 [+] Embeds <3 <br>
 
