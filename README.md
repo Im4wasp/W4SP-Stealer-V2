@@ -74,7 +74,7 @@ improved by [uuid](https://github.com/imuuid)
 [+] Embeds <3 <br>
 
 # ScreenShots
-<img src="https://cdn.discordapp.com/attachments/1035587885442813995/1035590779919421460/unknown.png"></img>
-<img src="https://cdn.discordapp.com/attachments/1035587885442813995/1035591128193433661/unknown.png"></img>
-<img src="https://cdn.discordapp.com/attachments/1035587885442813995/1035591544100634735/unknown.png"></img>
+<img src="https://cdn.discordapp.com/attachments/1062042370444636282/1143247841880453180/image.png"></img>
+<img src="https://cdn.discordapp.com/attachments/1062042370444636282/1143242877300920461/image.png"></img>
+<img src="https://cdn.discordapp.com/attachments/1062042370444636282/1143249038267920485/image.png"></img>
 <img src="https://cdn.discordapp.com/attachments/1035587885442813995/1035591894098513960/unknown.png"></img>
