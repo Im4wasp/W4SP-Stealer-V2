@@ -1,0 +1,14 @@
+{
+    "BOT_SETTINGS": {
+      "token": "discord_bot_token" 
+    },
+    "GENERAL": {
+        "host": "http://12.345.678.90:8000", 
+        "port": 8000,
+        "localhost": "10.120.0.4",
+        "adminkey": "password123",
+        "admin": [1111111111111111111, 2222222222222222222] 
+
+    }
+  }
+
