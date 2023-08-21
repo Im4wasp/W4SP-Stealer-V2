@@ -26,6 +26,7 @@ W4SP Stealer v2 | W4SP API v2 | W4SP Bot v2
 
 ## Setup [API]
 <a href="https://youtu.be/th3cA691zJ4"><img src="https://cdn.discordapp.com/attachments/1135684724585681039/1135851839045238814/mqdefault.jpg"></img></a>
+that was for v1 now just use config.json
 
 
 
